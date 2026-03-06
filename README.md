@@ -1,10 +1,13 @@
 # Agentic-AI-Building-Blocks-Project
 ### Agentic AI Building Blocks using Amazon Bedrock
 
-Agentic AI weather assistant—powered by Amazon Bedrock and Python—that orchestrates API calls for real-time weather data, generates human-friendly forecasts, and demonstrates the evolution from static AI "encyclopedias" to systems that think, plan, and act on complex challenges.
-This workshop unpacks its core elements through a Bedrock-powered weather assistant built with Python
+![img](https://github.com/Awadheshks/Agentic-AI-Building-Blocks-Project/blob/2fd8b5baaeb9fe25fa6961ede54437174187c7f0/assets/Bedrock-Main.png)
 
-## What is Agentic AI?:
+
+Agentic AI weather assistant—powered by Amazon Bedrock and Python—that orchestrates API calls for real-time weather data, generates human-friendly forecasts, and demonstrates the evolution from static AI "encyclopedias" to systems that think, plan, and act on complex challenges.
+This workshop unpacks its core elements through a Bedrock-powered weather assistant built with Python.
+
+## What is Agentic AI?
 Agentic AI refers to advanced AI systems that operate autonomously to achieve goals, going beyond simple responses by perceiving environments, reasoning through problems, planning actions, and learning from outcomes. Unlike traditional AI, which reacts to prompts, agentic AI proactively handles multi-step tasks with minimal human input.Agentic AI shifts from "Question → Answer" to a dynamic "**Problem → Plan → Action → Result**" cycle. Key sources identify three essential traits defining true agentic systems:
 
 **Autonomy**<br/>Agentic AI makes independent decisions and executes workflows without constant oversight, selecting tools and adapting strategies dynamically. This enables it to manage complex processes like diagnostics or optimizations solo
